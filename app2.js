@@ -107,10 +107,3 @@ function optionChanged(newSample) {
 
 // Initialize the dashboard
 init();
-
-
-function optionChanged(newid){
-buildtable(newid)
-buildcharts(newid)
-}
-dropdownmenu()
